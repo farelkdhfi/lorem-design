@@ -1,0 +1,853 @@
+.root {
+  background: var(--src) center center/100% 100% no-repeat;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.styling .style-lorem {
+  display: flex;
+  flex-direction: column;
+}
+.styling .section1 {
+  display: flex;
+  flex-direction: column;
+  height: 6981px;
+  width: 1280px;
+}
+.styling .hero_title {
+  bottom: 6501px;
+  color: black;
+  font: 800 68px/1.2 "Inter", Helvetica, Arial, serif;
+  height: 82px;
+  left: 545px;
+  position: absolute;
+  right: 306px;
+  top: 398px;
+  width: 429px;
+}
+.styling .image1 {
+  bottom: 6319px;
+  height: 447px;
+  left: 82px;
+  position: absolute;
+  right: 651px;
+  top: 215px;
+  width: 547px;
+}
+.styling .rect {
+  background-color: black;
+  bottom: 6896px;
+  height: 85px;
+  left: 0px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1280px;
+}
+.styling .subtitle {
+  bottom: 6925px;
+  color: white;
+  font: 800 23px/1.21 "Inter", Helvetica, Arial, serif;
+  height: 28px;
+  left: 30px;
+  position: absolute;
+  right: 1179px;
+  top: 28px;
+  width: 71px;
+}
+.styling .subtitle1 {
+  bottom: 6925px;
+  color: white;
+  font: 800 23px/1.21 "Inter", Helvetica, Arial, serif;
+  height: 28px;
+  left: 134px;
+  position: absolute;
+  right: 1022px;
+  top: 28px;
+  width: 124px;
+}
+.styling .subtitle2 {
+  bottom: 6925px;
+  color: white;
+  font: 800 23px/1.21 "Inter", Helvetica, Arial, serif;
+  height: 28px;
+  left: 291px;
+  position: absolute;
+  right: 909px;
+  top: 28px;
+  width: 80px;
+}
+.styling .subtitle3 {
+  bottom: 6925px;
+  color: white;
+  font: 800 23px/1.21 "Inter", Helvetica, Arial, serif;
+  height: 28px;
+  left: 404px;
+  position: absolute;
+  right: 742px;
+  top: 28px;
+  width: 134px;
+}
+.styling .subtitle4 {
+  bottom: 6925px;
+  color: white;
+  font: 800 23px/1.21 "Inter", Helvetica, Arial, serif;
+  height: 28px;
+  left: 571px;
+  position: absolute;
+  right: 593px;
+  top: 28px;
+  width: 116px;
+}
+.styling .paragraph {
+  bottom: 6415px;
+  color: black;
+  font: 800 14px/1.21 "Inter", Helvetica, Arial, serif;
+  height: 68px;
+  left: 545px;
+  position: absolute;
+  right: 262px;
+  top: 498px;
+  width: 473px;
+}
+.styling .hero_title1 {
+  bottom: 6583px;
+  color: #616161;
+  font: 800 39px/1.2 "Inter", Helvetica, Arial, serif;
+  height: 47px;
+  left: 549px;
+  position: absolute;
+  right: 593px;
+  top: 351px;
+  width: 138px;
+}
+.styling .hero_title2 {
+  bottom: 5906px;
+  color: black;
+  font: 800 42px/1.21 "Inter", Helvetica, Arial, serif;
+  height: 51px;
+  left: 519px;
+  position: absolute;
+  right: 534px;
+  top: 1024px;
+  width: 227px;
+}
+.styling .image2 {
+  bottom: 5537px;
+  height: 289px;
+  left: 82px;
+  position: absolute;
+  right: 969px;
+  top: 1155px;
+  width: 229px;
+}
+.styling .rect1 {
+  background-color: black;
+  bottom: 5505px;
+  height: 305px;
+  left: 804px;
+  position: absolute;
+  right: 466px;
+  top: 1171px;
+  width: 10px;
+}
+.styling .subtitle11 {
+  bottom: 5527px;
+  color: black;
+  font: 800 21px/1.19 "Inter", Helvetica, Arial, serif;
+  height: 275px;
+  left: 410px;
+  position: absolute;
+  right: 527px;
+  top: 1179px;
+  width: 343px;
+}
+.styling .subtitle21 {
+  bottom: 5775px;
+  color: black;
+  font: 800 22px/1.22 "Inter", Helvetica, Arial, serif;
+  height: 27px;
+  left: 881px;
+  position: absolute;
+  right: 188px;
+  top: 1179px;
+  width: 211px;
+}
+.styling .image3 {
+  bottom: 5533px;
+  height: 20px;
+  left: 881px;
+  position: absolute;
+  right: 379px;
+  top: 1428px;
+  width: 20px;
+}
+.styling .subtitle22 {
+  bottom: 5532px;
+  color: black;
+  font: 800 22px/1.22 "Inter", Helvetica, Arial, serif;
+  height: 27px;
+  left: 917px;
+  position: absolute;
+  right: 296px;
+  top: 1422px;
+  width: 67px;
+}
+.styling .image31 {
+  bottom: 5661px;
+  height: 20px;
+  left: 881px;
+  position: absolute;
+  right: 379px;
+  top: 1300px;
+  width: 20px;
+}
+.styling .subtitle23 {
+  bottom: 5660px;
+  color: black;
+  font: 800 22px/1.22 "Inter", Helvetica, Arial, serif;
+  height: 27px;
+  left: 917px;
+  position: absolute;
+  right: 185px;
+  top: 1294px;
+  width: 178px;
+}
+.styling .image32 {
+  bottom: 5722px;
+  height: 20px;
+  left: 881px;
+  position: absolute;
+  right: 379px;
+  top: 1239px;
+  width: 20px;
+}
+.styling .subtitle24 {
+  bottom: 5721px;
+  color: black;
+  font: 800 22px/1.22 "Inter", Helvetica, Arial, serif;
+  height: 27px;
+  left: 917px;
+  position: absolute;
+  right: 168px;
+  top: 1233px;
+  width: 195px;
+}
+.styling .image33 {
+  bottom: 5597px;
+  height: 20px;
+  left: 881px;
+  position: absolute;
+  right: 379px;
+  top: 1364px;
+  width: 20px;
+}
+.styling .subtitle25 {
+  bottom: 5596px;
+  color: black;
+  font: 800 22px/1.22 "Inter", Helvetica, Arial, serif;
+  height: 27px;
+  left: 917px;
+  position: absolute;
+  right: 294px;
+  top: 1358px;
+  width: 69px;
+}
+.styling .subtitle26 {
+  bottom: 4777px;
+  color: black;
+  font: 800 22px/1.22 "Inter", Helvetica, Arial, serif;
+  height: 270px;
+  left: 116px;
+  position: absolute;
+  right: 454px;
+  top: 1934px;
+  width: 710px;
+}
+.styling .hero_title3 {
+  bottom: 5107px;
+  color: black;
+  font: 800 48px/1.2 "Inter", Helvetica, Arial, serif;
+  height: 58px;
+  left: 116px;
+  position: absolute;
+  right: 433px;
+  top: 1816px;
+  width: 731px;
+}
+.styling .rect2 {
+  background-color: #717171;
+  border-radius: 91px 91px 91px 91px;
+  bottom: 4048px;
+  height: 182px;
+  left: 602px;
+  position: absolute;
+  right: 202px;
+  top: 2751px;
+  width: 476px;
+}
+.styling .rect3 {
+  background-color: black;
+  border-radius: 128px 128px 128px 128px;
+  bottom: 3859px;
+  height: 256px;
+  left: 488px;
+  position: absolute;
+  right: 88px;
+  top: 2866px;
+  width: 704px;
+}
+.styling .subtitle31 {
+  bottom: 3908px;
+  color: white;
+  font: 800 22px/1.22 "Inter", Helvetica, Arial, serif;
+  height: 162px;
+  left: 556px;
+  position: absolute;
+  right: 157px;
+  top: 2911px;
+  width: 567px;
+}
+.styling .big_title {
+  bottom: 4350px;
+  color: black;
+  font: 800 34px/1.2 "Inter", Helvetica, Arial, serif;
+  height: 41px;
+  left: 506px;
+  position: absolute;
+  right: 506px;
+  top: 2590px;
+  width: 268px;
+}
+.styling .image4 {
+  bottom: 4138px;
+  height: 15px;
+  left: 759px;
+  position: absolute;
+  right: 505px;
+  top: 2828px;
+  width: 16px;
+}
+.styling .image5 {
+  bottom: 4138px;
+  height: 15px;
+  left: 720px;
+  position: absolute;
+  right: 545px;
+  top: 2828px;
+  width: 15px;
+}
+.styling .image41 {
+  bottom: 4138px;
+  height: 15px;
+  left: 739px;
+  position: absolute;
+  right: 525px;
+  top: 2828px;
+  width: 16px;
+}
+.styling .image51 {
+  bottom: 4138px;
+  height: 15px;
+  left: 799px;
+  position: absolute;
+  right: 466px;
+  top: 2828px;
+  width: 15px;
+}
+.styling .image42 {
+  bottom: 4138px;
+  height: 15px;
+  left: 779px;
+  position: absolute;
+  right: 485px;
+  top: 2828px;
+  width: 16px;
+}
+.styling .highlight {
+  bottom: 4178px;
+  color: black;
+  font: 800 17px/1.23 "Inter", Helvetica, Arial, serif;
+  height: 21px;
+  left: 654px;
+  letter-spacing: -0.1px;
+  position: absolute;
+  right: 257px;
+  top: 2782px;
+  width: 369px;
+}
+.styling .highlight1 {
+  bottom: 4135px;
+  color: black;
+  font: 600 17px/1.23 "Inter", Helvetica, Arial, serif;
+  height: 21px;
+  left: 654px;
+  position: absolute;
+  right: 571px;
+  top: 2825px;
+  width: 55px;
+}
+.styling .rect4 {
+  background-color: #717171;
+  border-radius: 47px 47px 47px 47px;
+  bottom: 3834px;
+  height: 94px;
+  left: 122px;
+  position: absolute;
+  right: 911px;
+  top: 3053px;
+  width: 247px;
+}
+.styling .rect5 {
+  background-color: black;
+  border-radius: 66px 66px 66px 66px;
+  bottom: 3736px;
+  height: 132px;
+  left: 63px;
+  position: absolute;
+  right: 852px;
+  top: 3113px;
+  width: 365px;
+}
+.styling .desc {
+  bottom: 3731px;
+  color: white;
+  font: 800 12px/1.25 "Inter", Helvetica, Arial, serif;
+  height: 105px;
+  left: 102px;
+  position: absolute;
+  right: 881px;
+  top: 3145px;
+  width: 297px;
+}
+.styling .image6 {
+  bottom: 3880px;
+  height: 8px;
+  left: 204px;
+  position: absolute;
+  right: 1068px;
+  top: 3093px;
+  width: 8px;
+}
+.styling .image61 {
+  bottom: 3880px;
+  height: 8px;
+  left: 183px;
+  position: absolute;
+  right: 1089px;
+  top: 3093px;
+  width: 8px;
+}
+.styling .image62 {
+  bottom: 3880px;
+  height: 8px;
+  left: 193px;
+  position: absolute;
+  right: 1079px;
+  top: 3093px;
+  width: 8px;
+}
+.styling .image63 {
+  bottom: 3880px;
+  height: 8px;
+  left: 224px;
+  position: absolute;
+  right: 1048px;
+  top: 3093px;
+  width: 8px;
+}
+.styling .image64 {
+  bottom: 3880px;
+  height: 8px;
+  left: 214px;
+  position: absolute;
+  right: 1058px;
+  top: 3093px;
+  width: 8px;
+}
+.styling .info {
+  bottom: 3897px;
+  color: black;
+  font: 800 12px/1.25 "Inter", Helvetica, Arial, serif;
+  height: 15px;
+  left: 149px;
+  position: absolute;
+  right: 868px;
+  top: 3069px;
+  width: 263px;
+}
+.styling .info1 {
+  bottom: 3875px;
+  color: black;
+  font: 600 12px/1.25 "Inter", Helvetica, Arial, serif;
+  height: 15px;
+  left: 149px;
+  position: absolute;
+  right: 1092px;
+  top: 3091px;
+  width: 39px;
+}
+.styling .desc1 {
+  bottom: 3574px;
+  color: white;
+  font: 800 12px/1.25 "Inter", Helvetica, Arial, serif;
+  height: 105px;
+  left: 700px;
+  position: absolute;
+  right: 283px;
+  top: 3302px;
+  width: 297px;
+}
+.styling .hero_title4 {
+  bottom: 3430px;
+  color: black;
+  font: 800 44px/1.2 "Inter", Helvetica, Arial, serif;
+  height: 53px;
+  left: 498px;
+  position: absolute;
+  right: 526px;
+  top: 3498px;
+  width: 256px;
+}
+.styling .image7 {
+  bottom: 3035px;
+  height: 293px;
+  left: 287px;
+  position: absolute;
+  right: 719px;
+  top: 3653px;
+  width: 274px;
+}
+.styling .image8 {
+  bottom: 3029px;
+  height: 266px;
+  left: 696px;
+  position: absolute;
+  right: 291px;
+  top: 3686px;
+  width: 293px;
+}
+.styling .title {
+  bottom: 2899px;
+  color: black;
+  font: 800 28px/1.21 "Inter", Helvetica, Arial, serif;
+  height: 34px;
+  left: 519px;
+  position: absolute;
+  right: 518px;
+  top: 4048px;
+  width: 243px;
+}
+.styling .rect6 {
+  background-color: black;
+  border-radius: 24.5px 24.5px 24.5px 24.5px;
+  bottom: 2800px;
+  height: 49px;
+  left: 561px;
+  position: absolute;
+  right: 561px;
+  top: 4132px;
+  width: 158px;
+}
+.styling .title1 {
+  bottom: 2807px;
+  color: white;
+  font: 800 28px/1.21 "Inter", Helvetica, Arial, serif;
+  height: 34px;
+  left: 583px;
+  position: absolute;
+  right: 578px;
+  top: 4140px;
+  width: 119px;
+}
+.styling .info2 {
+  bottom: 2862px;
+  color: black;
+  font: 500 12px/1.25 "Inter", Helvetica, Arial, serif;
+  height: 15px;
+  left: 605px;
+  position: absolute;
+  right: 585px;
+  top: 4104px;
+  width: 90px;
+}
+.styling .image9 {
+  bottom: 2857px;
+  height: 9px;
+  left: 636px;
+  position: absolute;
+  right: 636px;
+  top: 4115px;
+  width: 8px;
+}
+.styling .title2 {
+  bottom: 1946px;
+  color: black;
+  font: 800 28px/1.21 "Inter", Helvetica, Arial, serif;
+  height: 34px;
+  left: 552px;
+  position: absolute;
+  right: 550px;
+  top: 5001px;
+  width: 178px;
+}
+.styling .rect61 {
+  background-color: black;
+  border-radius: 24.5px 24.5px 24.5px 24.5px;
+  bottom: 1847px;
+  height: 49px;
+  left: 563px;
+  position: absolute;
+  right: 559px;
+  top: 5085px;
+  width: 158px;
+}
+.styling .title11 {
+  bottom: 1854px;
+  color: white;
+  font: 800 28px/1.21 "Inter", Helvetica, Arial, serif;
+  height: 34px;
+  left: 585px;
+  position: absolute;
+  right: 576px;
+  top: 5093px;
+  width: 119px;
+}
+.styling .info21 {
+  bottom: 1909px;
+  color: black;
+  font: 500 12px/1.25 "Inter", Helvetica, Arial, serif;
+  height: 15px;
+  left: 607px;
+  position: absolute;
+  right: 583px;
+  top: 5057px;
+  width: 90px;
+}
+.styling .image91 {
+  bottom: 1904px;
+  height: 9px;
+  left: 638px;
+  position: absolute;
+  right: 634px;
+  top: 5068px;
+  width: 8px;
+}
+.styling .image10 {
+  bottom: 2105px;
+  height: 429px;
+  left: 277px;
+  position: absolute;
+  right: 276px;
+  top: 4447px;
+  width: 727px;
+}
+.styling .rect7 {
+  background-color: black;
+  border-radius: 35px 35px 35px 35px;
+  bottom: 1237px;
+  height: 70px;
+  left: 128px;
+  position: absolute;
+  right: 932px;
+  top: 5674px;
+  width: 220px;
+}
+.styling .rect8 {
+  background-color: black;
+  border-radius: 35px 35px 35px 35px;
+  bottom: 1081px;
+  height: 70px;
+  left: 563px;
+  position: absolute;
+  right: 559px;
+  top: 5830px;
+  width: 158px;
+}
+.styling .rect71 {
+  background-color: black;
+  border-radius: 35px 35px 35px 35px;
+  bottom: 1237px;
+  height: 70px;
+  left: 913px;
+  position: absolute;
+  right: 147px;
+  top: 5674px;
+  width: 220px;
+}
+.styling .hero_title5 {
+  bottom: 1420px;
+  color: black;
+  font: 800 66px/1.21 "Inter", Helvetica, Arial, serif;
+  height: 80px;
+  left: 474px;
+  position: absolute;
+  right: 473px;
+  top: 5481px;
+  width: 333px;
+}
+.styling .title12 {
+  bottom: 1255px;
+  color: white;
+  font: 800 28px/1.21 "Inter", Helvetica, Arial, serif;
+  height: 34px;
+  left: 152px;
+  position: absolute;
+  right: 956px;
+  top: 5692px;
+  width: 172px;
+}
+.styling .title13 {
+  bottom: 1255px;
+  color: white;
+  font: 800 28px/1.21 "Inter", Helvetica, Arial, serif;
+  height: 34px;
+  left: 978px;
+  position: absolute;
+  right: 213px;
+  top: 5692px;
+  width: 89px;
+}
+.styling .title14 {
+  bottom: 1099px;
+  color: white;
+  font: 800 28px/1.21 "Inter", Helvetica, Arial, serif;
+  height: 34px;
+  left: 592px;
+  position: absolute;
+  right: 589px;
+  top: 5848px;
+  width: 99px;
+}
+.styling .medium_title {
+  bottom: 1190px;
+  color: black;
+  font: 800 24px/1.2 "Inter", Helvetica, Arial, serif;
+  height: 29px;
+  left: 183px;
+  position: absolute;
+  right: 988px;
+  top: 5762px;
+  width: 109px;
+}
+.styling .medium_title1 {
+  bottom: 1035px;
+  color: black;
+  font: 800 24px/1.2 "Inter", Helvetica, Arial, serif;
+  height: 29px;
+  left: 564px;
+  position: absolute;
+  right: 549px;
+  top: 5917px;
+  width: 167px;
+}
+.styling .medium_title2 {
+  bottom: 1190px;
+  color: black;
+  font: 800 24px/1.2 "Inter", Helvetica, Arial, serif;
+  height: 29px;
+  left: 892px;
+  position: absolute;
+  right: 127px;
+  top: 5762px;
+  width: 261px;
+}
+.styling .medium_title11 {
+  bottom: 235px;
+  color: rgb(0, 0, 0);
+  font: 800 24px/1.2 "Inter", Helvetica, Arial, serif;
+  height: 29px;
+  left: 280px;
+  position: absolute;
+  right: 900px;
+  top: 6717px;
+  width: 100px;
+}
+.styling .medium_title12 {
+  bottom: 159px;
+  color: rgb(0, 0, 0);
+  font: 800 24px/1.2 "Inter", Helvetica, Arial, serif;
+  height: 29px;
+  left: 280px;
+  position: absolute;
+  right: 849px;
+  top: 6793px;
+  width: 151px;
+}
+.styling .medium_title13 {
+  bottom: 82px;
+  color: rgb(0, 0, 0);
+  font: 800 24px/1.2 "Inter", Helvetica, Arial, serif;
+  height: 29px;
+  left: 280px;
+  position: absolute;
+  right: 811px;
+  top: 6870px;
+  width: 189px;
+}
+.styling .medium_title14 {
+  bottom: 83px;
+  color: rgb(0, 0, 0);
+  font: 800 24px/1.2 "Inter", Helvetica, Arial, serif;
+  height: 29px;
+  left: 48px;
+  position: absolute;
+  right: 1085px;
+  top: 6869px;
+  width: 147px;
+}
+.styling .medium_title15 {
+  bottom: 235px;
+  color: rgb(0, 0, 0);
+  font: 800 24px/1.2 "Inter", Helvetica, Arial, serif;
+  height: 29px;
+  left: 613px;
+  position: absolute;
+  right: 509px;
+  top: 6717px;
+  width: 158px;
+}
+.styling .medium_title16 {
+  bottom: 235px;
+  color: rgb(0, 0, 0);
+  font: 800 24px/1.2 "Inter", Helvetica, Arial, serif;
+  height: 29px;
+  left: 48px;
+  position: absolute;
+  right: 1112px;
+  top: 6717px;
+  width: 120px;
+}
+.styling .medium_title17 {
+  bottom: 159px;
+  color: rgb(0, 0, 0);
+  font: 800 24px/1.2 "Inter", Helvetica, Arial, serif;
+  height: 29px;
+  left: 48px;
+  position: absolute;
+  right: 1127px;
+  top: 6793px;
+  width: 105px;
+}
+.styling .medium_title18 {
+  bottom: 159px;
+  color: rgb(0, 0, 0);
+  font: 800 24px/1.2 "Inter", Helvetica, Arial, serif;
+  height: 29px;
+  left: 613px;
+  position: absolute;
+  right: 618px;
+  top: 6793px;
+  width: 49px;
+}
+.styling .hero_title6 {
+  bottom: 539px;
+  color: black;
+  font: 800 66px/1.21 "Inter", Helvetica, Arial, serif;
+  height: 69px;
+  left: 431px;
+  position: absolute;
+  right: 427px;
+  top: 6373px;
+  width: 422px;
+}
